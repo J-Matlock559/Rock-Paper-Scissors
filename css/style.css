@@ -1,0 +1,12 @@
+body{
+    background-color: #222;
+    color: white;
+}
+
+.choice{
+    display: inline-block;
+}
+
+button{
+    margin-top: 20px;
+}
