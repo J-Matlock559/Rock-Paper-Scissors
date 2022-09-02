@@ -9,4 +9,6 @@ body{
 
 button{
     margin-top: 20px;
+    margin-left: 5px;
+    padding: 10px 20px;
 }
